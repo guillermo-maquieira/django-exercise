@@ -22,7 +22,9 @@ As described in Background section, for some reason I do not know (could be rela
 python manage.py createsuperuser
 ```
 
-Or was not able to get rid of starter Django message: "The install worked successfully! Congratulations! You are seeing this page because DEBUG=True is in your settings file and you have not configured any URLs."
+Or was not able to get rid of starter Django message:
+
+> "The install worked successfully! Congratulations! You are seeing this page because DEBUG=True is in your settings file and you have not configured any URLs."
 
 ## Greetings
 
