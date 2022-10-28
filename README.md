@@ -19,7 +19,6 @@ Tried to solve Exercise 1 and 2. Did not have time to solve Excercise 3.
 As described in Background section, for some reason I do not know (could be related with not using Django in a long time ago) I was to able to run on repl.it environment basic Django's commands such as:
 
 ```
-shell
 python manage.py createsuperuser
 ```
 
